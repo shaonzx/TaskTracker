@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|f:\\interviewassignments\\actualworks\\tasktracker\\tasktracker.api\\tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|f:\\interviewassignments\\actualworks\\tasktracker\\tasktracker.api\\tasktracker.api\\graphql\\types\\taskstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\graphql\\types\\taskstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|f:\\interviewassignments\\actualworks\\tasktracker\\tasktracker.api\\tasktracker.api\\graphql\\types\\inputs\\taskinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\graphql\\types\\inputs\\taskinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|f:\\interviewassignments\\actualworks\\tasktracker\\tasktracker.api\\tasktracker.api\\graphql\\mutations\\taskmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\graphql\\mutations\\taskmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|f:\\interviewassignments\\actualworks\\tasktracker\\tasktracker.api\\tasktracker.api\\graphql\\queries\\taskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\graphql\\queries\\taskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|f:\\interviewassignments\\actualworks\\tasktracker\\tasktracker.api\\tasktracker.api\\graphql\\schemas\\taskschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74EE84-AE38-42F9-B555-71D9CCB50DEA}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\graphql\\schemas\\taskschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Program.cs",
+              "ToolTip": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\Program.cs",
+              "RelativeToolTip": "TaskTracker.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:31:58.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskStatusType.cs",
+              "DocumentMoniker": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Types\\TaskStatusType.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\GraphQL\\Types\\TaskStatusType.cs",
+              "ToolTip": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Types\\TaskStatusType.cs",
+              "RelativeToolTip": "TaskTracker.API\\GraphQL\\Types\\TaskStatusType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:12:05.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskInputType.cs",
+              "DocumentMoniker": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Types\\Inputs\\TaskInputType.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\GraphQL\\Types\\Inputs\\TaskInputType.cs",
+              "ToolTip": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Types\\Inputs\\TaskInputType.cs",
+              "RelativeToolTip": "TaskTracker.API\\GraphQL\\Types\\Inputs\\TaskInputType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:12:00.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskMutation.cs",
+              "DocumentMoniker": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Mutations\\TaskMutation.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\GraphQL\\Mutations\\TaskMutation.cs",
+              "ToolTip": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Mutations\\TaskMutation.cs",
+              "RelativeToolTip": "TaskTracker.API\\GraphQL\\Mutations\\TaskMutation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:53:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskQuery.cs",
+              "DocumentMoniker": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Queries\\TaskQuery.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\GraphQL\\Queries\\TaskQuery.cs",
+              "ToolTip": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Queries\\TaskQuery.cs",
+              "RelativeToolTip": "TaskTracker.API\\GraphQL\\Queries\\TaskQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:53:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskSchema.cs",
+              "DocumentMoniker": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Schemas\\TaskSchema.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\GraphQL\\Schemas\\TaskSchema.cs",
+              "ToolTip": "F:\\InterviewAssignments\\ActualWorks\\TaskTracker\\TaskTracker.API\\TaskTracker.API\\GraphQL\\Schemas\\TaskSchema.cs",
+              "RelativeToolTip": "TaskTracker.API\\GraphQL\\Schemas\\TaskSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:51:05.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

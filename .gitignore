@@ -1,0 +1,23 @@
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+node_modules/
+bin/
+obj/
