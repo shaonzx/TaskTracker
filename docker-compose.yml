@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  # 1. PostgreSQL Database Service
+  db:
+    image: postgres:15-alpine
+    container_name: tasktracker_db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=candy@pass
+      - POSTGRES_DB=TaskTrackerDB
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    ports:
+      - "5432:5432" # Map local port 5432 to container port 5432 (optional, for external tools like pgAdmin)
+    # restart: unless-stopped # Uncomment for production
+
+  # 2. .NET Backend API Service
+  backend:
+    build: ./TaskTracker.API/TaskTracker.API # <-- CRITICAL CHANGE: Points to the inner folder
+    container_name: tasktracker_api
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=TaskTrackerDB;Username=postgres;Password=candy@pass;
+    depends_on:
+      - db
+    ports:
+      - "5000:8080"   # Map localhost:5000 -> container port 80 (ASP.NET Core's default in container)
+      - "5001:8081"  # Map localhost:5001 -> container port 443 (for HTTPS)
+    # restart: unless-stopped
+
+  # 3. React Frontend Service
+  frontend:
+    build: ./tasktracker.frontend # Points to the folder containing its Dockerfile
+    container_name: tasktracker_frontend
+    ports:
+      - "3000:80" # Map localhost:3000 -> container port 80 (nginx)
+    environment:
+      - REACT_APP_API_URL=http://localhost:5000 # Critical: Tells React where to find the backend.
+    depends_on:
+      - backend
+    # restart: unless-stopped
+
+volumes:
+  postgres_data:

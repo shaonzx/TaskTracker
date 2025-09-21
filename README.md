@@ -77,6 +77,7 @@ docker-compose up --build api
 1.  **Port conflicts**: Ensure ports 3000, 5000, and 5432 are available    
 2.  **Docker not running**: Verify Docker Desktop/Engine is running    
 3.  **Build failures**: Run `docker-compose down` and rebuild
+4.  **Node Version**: The front-end is build on node v22.19.0, please use nvm to ensure the correct version (if needed).
 
 # Check running containers
 docker ps
